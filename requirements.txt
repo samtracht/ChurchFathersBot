@@ -1,0 +1,9 @@
+discord==2.3.2
+python-dotenv==1.0.1
+beautifulsoup4==4.12.3
+black==24.10.0
+markdown==3.7
+mistralai==1.2.6
+pandas==2.2.3
+pinecone[grpc]==5.4.2
+requests==2.32.3
